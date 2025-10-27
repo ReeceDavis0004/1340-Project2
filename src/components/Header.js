@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import logo from "../image.png"
 import "./Header.css"
 
-const Header = ({ }) => {
+const Header = () => {
 	const location = useLocation();
 	const activePage = location.pathname.split('/')[1];
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
