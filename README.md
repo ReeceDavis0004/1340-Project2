@@ -9,7 +9,7 @@ this will install all the required packages.
 
 ## Install XAMMP
 Open and install [XAMMP](https://www.apachefriends.org/download.html)
-This is needed so you can run a MySQL database for the backend API.test
+This is needed so you can run a MySQL database for the backend API.
 
 ## Running the project
 
