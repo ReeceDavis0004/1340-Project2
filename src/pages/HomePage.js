@@ -6,7 +6,7 @@ const HomePage = () => {
 	return (
 		<div>
 			<div className='test'>
-				Red Box
+				Red Box2
 			</div>
 		</div>
 	);
